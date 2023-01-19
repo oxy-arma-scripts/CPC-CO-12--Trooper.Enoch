@@ -7,7 +7,7 @@
 
 ## Contexte
 
-<font color='#007DFF'>24 Juin 2015 - 04:30 | Ukraine | _Avant poste Anglais_</font>
+### 24 Juin 2015 - 04:30 | Ukraine | _Avant poste Anglais_
 
 La guerre du Donbass fait rage depuis le début de l'année dernière. Un accord avait été trouvé en Septembre mais quelqu'un a tiré trop vite et depuis Janvier, les combats recommence à s'intensifier
 
@@ -28,7 +28,7 @@ Pour enfoncer le clou, la transaction est prévue pour tôt ce matin, et la mét
 
 Aux dernières nouvelles, les rebelles se sont planqués dans une _ferme près de Bielawa_.
 
-<font color='#007DFF'>Objectifs :</font>
+### Objectifs :
 
 - Éliminez ou ramenez le HVT
 - Récupérez les documents
